@@ -1,0 +1,105 @@
+{
+  "languages": [
+    {
+      "code": "ts",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "js",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "php",
+      "level": "",
+      "is_expertise": false
+    }
+  ],
+  "framework_or_library": [
+    {
+      "code": "react-native",
+      "level": "",
+      "is_expertise": true
+    },
+    {
+      "code": "react",
+      "level": "",
+      "is_expertise": true
+    },
+    {
+      "code": "laravel",
+      "level": "",
+      "is_expertise": true
+    },
+    {
+      "code": "nextjs",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "expressjs",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "ci",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "sass",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "tailwind",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "bootstrap",
+      "level": "",
+      "is_expertise": false
+    }
+  ],
+  "databases": [
+    {
+      "code": "mysql",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "postgresql",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "oracle",
+      "level": "",
+      "is_expertise": false
+    }
+  ],
+  "tools": [
+    {
+      "code": "github",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "gitlab",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "figma",
+      "level": "",
+      "is_expertise": false
+    },
+    {
+      "code": "docker",
+      "level": "",
+      "is_expertise": false
+    }
+  ]
+}

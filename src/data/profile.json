@@ -1,0 +1,25 @@
+{
+  "name": "Andrio Pratama Sirait",
+  "name_with_title": "Andrio Pratama Sirait, S.T",
+  "date_of_birth": "1998-09-07",
+  "role": "Full-stack Developer",
+  "roles": ["Mobile Developer", "Web Front-End Developer", "Backend Developer"],
+  "about": "Experienced Full-Stack Developer from Indonesia with over 3.5 years of experience. Start-Up Co-founder and currently working for an IT consulting company. Highly skilled in TypeScript, JavaScript, and PHP. Expertise in Web, Android, and iOS platforms. Successfully delivered multiple projects. Driven by a passion to consistently deliver excellence through coding and technology.",
+  "resume_path": "assets/CV Andrio Sirait - Agustus 2023.pdf",
+  "photo_path": "/assets/images/foto-jas.png",
+  "phone": "+62812 2669 6696",
+  "email": "andriopratama16@gmail.com",
+  "website": "www.andriosirait.com",
+  "address": {
+    "street": "Jl. Taman Laguna",
+    "city": "Jakarta Timur, Indonesia",
+    "postal_code": "17435"
+  },
+  "hobbies": "Enjoy playing video games a little while to refresh myself from the exhausting coding. Also enjoy watching video on YouTube",
+  "social_media": {
+    "facebook": "https://www.facebook.com/yangngambiltaik/",
+    "instagram": "https://www.instagram.com/andrio.sirait/",
+    "linked_in": "https://www.linkedin.com/in/andrio-pratama-sirait-632223125/",
+    "github": "https://github.com/androxxe"
+  }
+}
